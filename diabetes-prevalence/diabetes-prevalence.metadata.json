@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Diabetes prevalence",
+    "subtitle": "The share of people aged 20-79 who have [diabetes](#dod:diabetes). Diabetes is a [risk factor](#dod:risk-factor) for chronic complications, including cardiovascular disease, and premature death.",
+    "citation": "Multiple sources compiled by World Bank (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/diabetes-prevalence?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "South Asia (WB)",
+      "North America (WB)",
+      "Sub-Saharan Africa (WB)",
+      "East Asia and Pacific (WB)",
+      "Europe and Central Asia (WB)",
+      "Latin America and Caribbean (WB)",
+      "Middle East and North Africa (WB)"
+    ]
+  },
+  "columns": {
+    "Diabetes prevalence (% of population ages 20 to 79)": {
+      "titleShort": "Diabetes prevalence (% of population ages 20 to 79)",
+      "titleLong": "Diabetes prevalence (% of population ages 20 to 79)",
+      "descriptionKey": [],
+      "shortUnit": "%",
+      "unit": "% of population ages 20 to 79",
+      "timespan": "2000-2021",
+      "type": "Numeric",
+      "owidVariableId": 905832,
+      "shortName": "sh_sta_diab_zs",
+      "lastUpdated": "2024-05-20",
+      "nextUpdate": "2025-05-20",
+      "citationShort": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data",
+      "citationLong": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data. “Diabetes prevalence (% of population ages 20 to 79)” [dataset]. International Diabetes Federation (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/905832.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-06"
+}
